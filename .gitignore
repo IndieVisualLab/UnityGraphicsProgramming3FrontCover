@@ -34,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Recordings/
+Assets/Unity Recorder/
+Assets/Unity Recorder.meta
