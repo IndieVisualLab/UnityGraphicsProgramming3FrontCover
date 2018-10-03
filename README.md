@@ -6,7 +6,7 @@
 
 [BakingSkinnedAnimationToTexture](https://github.com/IndieVisualLab/UnityGraphicsProgramming3/tree/master/Assets/BakingSkinnedAnimationToTexture)
 
-![frontCover](FrontCover.jpg)
+[![frontCover](FrontCover.jpg)](https://vimeo.com/293139321)
 
 - [vimeo](https://vimeo.com/293139321)
 
